@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ishitaaagupta?tab=repositories](https://github.com/ishitaaagupta?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ishitaaagupta](https://github.com/ishitaaagupta)
 
 - 📫 How to reach me **ishitagupta9901@gmail.com**
 
