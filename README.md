@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ishitagupta9901@gmail.com**
 
-- ⚡ Fun fact **enjoys experimenting with natural skincare remedies, like , alongside her passion for coding and tech projects!**
+- ⚡ Fun fact **enjoys experimenting with natural skincare remedies, alongside her passion for coding and tech projects!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
