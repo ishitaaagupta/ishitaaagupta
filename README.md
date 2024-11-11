@@ -62,9 +62,11 @@
   </a> 
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmAmrita18&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmAmrita18&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmAmrita18&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishitaaagupta&show_icons=true&locale=en&layout=compact" alt="ishitaaagupta" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitaaagupta&show_icons=true&locale=en" alt="ishitaaagupta" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaaagupta&" alt="ishitaaagupta" /></p>
