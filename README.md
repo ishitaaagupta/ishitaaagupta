@@ -137,23 +137,6 @@
   </a>
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishitaaagupta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&card_width=445" alt="GitHub Stats"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishitaaagupta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -165,8 +148,6 @@
 
 ## 💻 What I'm Working On
 
-<div align="center">
-  
 🔭 **Current Focus:**
 - Building full-stack web applications with React & Node.js
 - Exploring AI integration in web development
@@ -174,13 +155,10 @@
 
 🌱 **Learning:**
 - Advanced TypeScript patterns
-- Cloud architecture with AWS
+- Learning cloud fundamentals
 - Machine Learning fundamentals
 
-</div>
-
 ---
-
 
 ## 💭 Random Dev Quote
 
